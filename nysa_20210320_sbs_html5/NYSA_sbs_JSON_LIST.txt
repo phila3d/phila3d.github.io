@@ -1,0 +1,37 @@
+{
+"media": [
+
+{ "url": "000.jpg" },
+{ "url": "01_music2_comp.jpg" },
+{ "url": "04_dave.jpg" },
+{ "url": "05_Harp_adj.jpg" },
+{ "url": "06_sofies.jpg" },
+{ "url": "07_Sofies02.jpg" },
+{ "url": "08_thanksdave.jpg" },
+{ "url": "09_jim.jpg" },
+{ "url": "10_ampitheatre.jpg" },
+{ "url": "11_artistatwork.jpg" },
+{ "url": "12_BluegroundUndergrass.jpg" },
+{ "url": "13_campsit_ jam_despot_adj.jpg" },
+{ "url": "14_GoodMedicine_adj.jpg" },
+{ "url": "15_WendyTreatment.jpg" },
+{ "url": "16_thanksjim.jpg" },
+{ "url": "19_paul.jpg" },
+{ "url": "20_AustrianHarp_adj.jpg" },
+{ "url": "21_MittenwaldViolinMuseum1.jpg" },
+{ "url": "22_MittenwaldViolinMuseum2.jpg" },
+{ "url": "23_MittenwaldViolinMuseum3.jpg" },
+{ "url": "24_MittenwaldViolinMuseum4_adj.jpg" },
+{ "url": "25_thankspaul.JPG" },
+{ "url": "29_johnny.jpg" },
+{ "url": "30_0703310004-1-13-07.jpg" },
+{ "url": "31_CLAMPFRONTCROSS-V1.jpg" },
+{ "url": "32_DSCF6538-PANIC AT THE DISCO-BARCLAY1.jpg" },
+{ "url": "33_thanksjohn.jpg" }
+
+
+],
+"meta": {
+"url_base": "https://phila3d.github.io/nysa_20210320_sbs_html5/"
+}
+}
