@@ -1,0 +1,35 @@
+{
+"media": [
+
+{ "url": "001_bobmcafee.jpg" },
+{ "url": "004_BirchCatkins.jpg" },
+{ "url": "005_EasterEggHunt.jpg" },
+{ "url": "006_Flowers-1.jpg" },
+{ "url": "007_Flowers-4.jpg" },
+{ "url": "008_MakingMapleSyrup.jpg" },
+{ "url": "010_bob_thanks.jpg" },
+{ "url": "016_davidhazan.jpg" },
+{ "url": "017_NYSA_Apr17_Pair.jpg" },
+{ "url": "018_NYSA_Apr17_Pair.jpg" },
+{ "url": "019_NYSA_Apr17_Pair.jpg" },
+{ "url": "020_NYSA_Apr17_Pair.jpg" },
+{ "url": "021_NYSA_Apr17_Pair.jpg" },
+{ "url": "022_NYSA_Apr17_Pair.jpg" },
+{ "url": "023_NYSA_Apr17_Pair.jpg" },
+{ "url": "024_NYSA_Apr17_Pair.jpg" },
+{ "url": "025_NYSA_Apr17_Pair.jpg" },
+{ "url": "026_NYSA_Apr17_Pair.jpg" },
+{ "url": "027_NYSA_Apr17_Pair.jpg" },
+{ "url": "028_NYSA_Apr17_Pair.jpg" },
+{ "url": "029_NYSA_Apr17_Pair.jpg" },
+{ "url": "030_NYSA_Apr17_Pair.jpg" },
+{ "url": "031_NYSA_Apr17_Pair.jpg" },
+{ "url": "032_NYSA_Apr17_Pair.jpg" },
+{ "url": "036_thanksdavid.jpg" }
+
+
+],
+"meta": {
+"url_base": "https://phila3d.github.io/nysa_20210417_sbs_html5/"
+}
+}
