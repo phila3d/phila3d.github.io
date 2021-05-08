@@ -1,0 +1,33 @@
+{
+"media": [
+
+
+{ "url": "00_nysa_curtains.jpg" },
+{ "url": "01.jpg" },
+{ "url": "04_McManusPARTY1.jpg" },
+{ "url": "05_McManusPARTY2.jpg" },
+{ "url": "06_McManusPARTY3.jpg" },
+{ "url": "07_McManusPARTY4.jpg" },
+{ "url": "08_McManusPARTY5.jpg" },
+{ "url": "09_thanksjim.jpg" },
+{ "url": "10_klayer.jpg" },
+{ "url": "11_MothersDay_SBS.jpg" },
+{ "url": "13_thanks_william.jpg" },
+{ "url": "21-Frank-in-the-3rd.jpg" },
+{ "url": "22-Frank-in-the-3rd.jpg" },
+{ "url": "23-Frank-in-the-3rd.jpg" },
+{ "url": "24-Frank-in-the-3rd.jpg" },
+{ "url": "25-Frank-in-the-3rd.jpg" },
+{ "url": "26-Frank-in-the-3rd.jpg" },
+{ "url": "27-Frank-in-the-3rd.jpg" },
+{ "url": "28-Frank-in-the-3rd.jpg" },
+{ "url": "29-Frank-in-the-3rd.jpg" },
+{ "url": "30-Frank-in-the-3rd.jpg" },
+{ "url": "31-Frank-in-the-3rd.jpg" },
+{ "url": "00_nysa_curtains.jpg" }
+
+],
+"meta": {
+"url_base": "https://phila3d.github.io/20210424_nysa_html5/"
+}
+}
