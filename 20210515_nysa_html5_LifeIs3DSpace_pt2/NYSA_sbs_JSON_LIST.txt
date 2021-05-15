@@ -2,6 +2,23 @@
 "media": [
 
 { "url": "000_nysa_curtains.jpg" },
+
+{ "url": "01-Fractal-3-D_good.JPG" },
+{ "url": "02-Fractal-3-D.JPG" },
+{ "url": "03-Fractal-3-D.JPG" },
+{ "url": "04-Fractal-3-D.JPG" },
+{ "url": "05-Fractal-3-D.JPG" },
+{ "url": "06-Fractal-3-D.JPG" },
+{ "url": "07-Fractal-3-D.JPG" },
+{ "url": "08-Fractal-3-D.JPG" },
+{ "url": "09-Fractal-3-D.JPG" },
+{ "url": "10-Fractal-3-D.JPG" },
+{ "url": "11-Fractal-3-D.JPG" },
+{ "url": "12-Fractal-3-D.JPG" },
+{ "url": "13-Fractal-3-D.JPG" },
+{ "url": "14-Fractal-3-D.JPG" }
+{ "url": "000_nysa_curtains.jpg" },
+
 { "url": "01_Intro_Logo_SBS.jpg" },
 { "url": "49_launch_control2_SBS.JPG" },
 { "url": "51_rocket_jim_1_SBS_FRESH.jpg" },
@@ -37,6 +54,7 @@
 { "url": "97_SpaceX_with_Elon_Musk_2_SBS_FRESH.jpg" },
 { "url": "98_funny_bumper_sticker_SBS_FRESH.jpg" },
 { "url": "99b_Outro_Logo_SBS.jpg" },
+{ "url": "000_nysa_curtains.jpg" },
 { "url": "johnnylaser_party.jpg" },
 { "url": "000_nysa_curtains.jpg" }
 
