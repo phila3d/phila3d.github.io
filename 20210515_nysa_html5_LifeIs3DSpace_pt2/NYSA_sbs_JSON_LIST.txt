@@ -36,7 +36,9 @@
 { "url": "96_SpaceX_with_Elon_Musk_1_SBS_FRESH.jpg" },
 { "url": "97_SpaceX_with_Elon_Musk_2_SBS_FRESH.jpg" },
 { "url": "98_funny_bumper_sticker_SBS_FRESH.jpg" },
-{ "url": "99b_Outro_Logo_SBS.jpg" }
+{ "url": "99b_Outro_Logo_SBS.jpg" },
+{ "url": "johnnylaser_party.jpg" },
+{ "url": "000_nysa_curtains.jpg" }
 
 ],
 "meta": {
