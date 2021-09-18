@@ -1,0 +1,36 @@
+{
+"media": [
+
+{ "url": "10_jim_harp.jpg" },
+{ "url": "11_gigi_bartop.jpg" },
+{ "url": "13_katie_1.jpg" },
+{ "url": "14_katie_2.jpg" },
+{ "url": "15_perse_fanny.jpg" },
+{ "url": "15a_hoopgirl.jpg" },
+{ "url": "16_jim_harp_thanks.jpg" },
+{ "url": "20_paul.jpg" },
+{ "url": "21_dscf2151.jpg" },
+{ "url": "22_dscf2172.jpg" },
+{ "url": "23_dscf2213.jpg" },
+{ "url": "24_dscf2240.jpg" },
+{ "url": "25_dscf9894.jpg" },
+{ "url": "26_dscf9899.jpg" },
+{ "url": "27_paul_thanks.jpg" },
+{ "url": "30_samuel_tressler.jpg" },
+{ "url": "30a_11.jpg" },
+{ "url": "31_12.jpg" },
+{ "url": "32_13.jpg" },
+{ "url": "33_14.jpg" },
+{ "url": "34_15.jpg" },
+{ "url": "35_16.jpg" },
+{ "url": "36_17.jpg" },
+{ "url": "37_18.jpg" },
+{ "url": "38_19.jpg" },
+{ "url": "39_20.jpg" },
+{ "url": "40_samuel_tressler_thanks.jpg" }
+
+],
+"meta": {
+"url_base": "https://phila3d.github.io/nysa_20210918_sbs_html5/"
+}
+}
