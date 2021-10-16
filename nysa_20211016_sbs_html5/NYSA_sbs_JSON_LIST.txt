@@ -1,0 +1,45 @@
+{
+"media": [
+
+{ "url": "000_nysa_curtains.jpg" },
+{ "url": "04-paris-en-relief.jpg" },
+{ "url": "05-paris-en-relief.jpg" },
+{ "url": "06-paris-en-relief.jpg" },
+{ "url": "07-paris-en-relief.jpg" },
+{ "url": "08-paris-en-relief.jpg" },
+{ "url": "09-paris-en-relief.jpg" },
+{ "url": "090_curtains.jpg" },
+{ "url": "10-paris-en-relief.jpg" },
+{ "url": "100.jpg" },
+{ "url": "11-paris-en-relief.jpg" },
+{ "url": "110.jpg" },
+{ "url": "12-paris-en-relief.jpg" },
+{ "url": "120.jpg" },
+{ "url": "13-paris-en-relief.jpg" },
+{ "url": "130.jpg" },
+{ "url": "14-paris-en-relief.jpg" },
+{ "url": "140.jpg" },
+{ "url": "15-paris-en-relief.jpg" },
+{ "url": "150.jpg" },
+{ "url": "16-paris-en-relief.jpg" },
+{ "url": "160.jpg" },
+{ "url": "17-paris-en-relief.jpg" },
+{ "url": "170.jpg" },
+{ "url": "18-paris-en-relief.jpg" },
+{ "url": "180.jpg" },
+{ "url": "190.jpg" },
+{ "url": "200.jpg" },
+{ "url": "210.jpg" },
+{ "url": "220.jpg" },
+{ "url": "230.jpg" },
+{ "url": "240.jpg" },
+{ "url": "250.jpg" },
+{ "url": "260.jpg" },
+{ "url": "270.jpg" },
+{ "url": "280.jpg" },
+{ "url": "300_curtains.jpg" }
+],
+"meta": {
+"url_base": "https://phila3d.github.io/nysa_20211016_sbs_html5/"
+}
+}
