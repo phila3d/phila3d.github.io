@@ -1,0 +1,37 @@
+{
+"media": [
+
+{ "url": "000_nysa_curtains.jpg" },
+{ "url": "001_johnnylaser_presents.jpg" },
+{ "url": "001a-dscf8552.jpg" },
+{ "url": "002-dscf8554.jpg" },
+{ "url": "003-dscf8556.jpg" },
+{ "url": "004-dscf8557.jpg" },
+{ "url": "005-dscf8558-v2.jpg" },
+{ "url": "006-dscf8560.jpg" },
+{ "url": "007-dscf8561.jpg" },
+{ "url": "008-dscf8568.jpg" },
+{ "url": "009-dscf8575.jpg" },
+{ "url": "010-dscf8580.jpg" },
+{ "url": "011_johnnylaser_thanks.jpg" },
+{ "url": "020_paul.jpg" },
+{ "url": "020a-dscf1806.jpg" },
+{ "url": "021-dscf1823.jpg" },
+{ "url": "022-dscf1845.jpg" },
+{ "url": "023-dscf1858.jpg" },
+{ "url": "024-dscf1863.jpg" },
+{ "url": "025-dscf1867.jpg" },
+{ "url": "026-dscf1872.jpg" },
+{ "url": "027_paul_thanks.jpg" },
+{ "url": "029_markj_presents.jpg" },
+{ "url": "030-stereochurch.jpg" },
+{ "url": "031-stereoelephant.jpg" },
+{ "url": "032-stereozoo.jpg" },
+{ "url": "033_markj_thanks2.jpg" },
+{ "url": "034_nysa_curtains.jpg" }
+
+],
+"meta": {
+"url_base": "https://phila3d.github.io/nysa_20210410_sbs_html5/"
+}
+}
