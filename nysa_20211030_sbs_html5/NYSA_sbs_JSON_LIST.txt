@@ -1,6 +1,7 @@
 {
 "media": [
 
+{ "url": "000_nysa_curtains.jpg" },
 { "url": "1_dscf3174.jpg" },
 { "url": "2_dscf4614_crop.jpg" },
 { "url": "3_dscf3185_adj_crop.jpg" },
