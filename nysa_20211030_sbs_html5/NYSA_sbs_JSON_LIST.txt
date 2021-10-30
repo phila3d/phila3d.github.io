@@ -2,14 +2,14 @@
 "media": [
 
 { "url": "000_nysa_curtains.jpg" },
-{ "url": "davecomeau.JPG" },
+{ "url": "davecomeau.jpg" },
 { "url": "1_dscf3174.jpg" },
 { "url": "2_dscf4614_crop.jpg" },
 { "url": "3_dscf3185_adj_crop.jpg" },
 { "url": "4_dscf3187_adj.jpg" },
 { "url": "5_dscf4635_adj.jpg" },
 { "url": "6_dscf5584.jpg" },
-{ "url": "thanksdave.JPG" },
+{ "url": "thanksdave.jpg" },
 
 { "url": "000_nysa_curtains.jpg" }
 
