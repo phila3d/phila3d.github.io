@@ -1,0 +1,19 @@
+{
+"media": [
+
+{ "url": "00a.jpg" },
+{ "url": "dscf0057.jpg" },
+{ "url": "dscf0072.jpg" },
+{ "url": "dscf9750.jpg" },
+{ "url": "dscf9758.jpg" },
+{ "url": "dscf9792.jpg" },
+{ "url": "dscf9812.jpg" },
+{ "url": "img_1891.jpg" },
+{ "url": "img_1897.jpg" },
+{ "url": "00a.jpg" }
+
+],
+"meta": {
+"url_base": "https://phila3d.github.io/nysa_20211106_sbs_html5/"
+}
+}
