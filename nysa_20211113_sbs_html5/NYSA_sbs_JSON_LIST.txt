@@ -1,0 +1,32 @@
+{
+"media": [
+
+{ "url": "00a.jpg" },
+{ "url": "1_6573combsxs.jpg" },
+{ "url": "2_6575wcombsxs.jpg" },
+{ "url": "3_6580sxsbs.jpg" },
+{ "url": "4_6600joint_s.jpg" },
+{ "url": "5_6630sxs_comb_s.jpg" },
+{ "url": "aa_6549conv.jpg" },
+{ "url": "b_6549tri.jpg" },
+{ "url": "c_6586conv.jpg" },
+{ "url": "d_6586tri.jpg" },
+{ "url": "g_6602conv.jpg" },
+{ "url": "h_6602tri.jpg" },
+{ "url": "i_6605conv.jpg" },
+{ "url": "j_6605tri.jpg" },
+{ "url": "k_6634conv.jpg" },
+{ "url": "l_6634tri.jpg" },
+{ "url": "m_6646conv.jpg" },
+{ "url": "n_6646tri.jpg" },
+{ "url": "o_6651conv.jpg" },
+{ "url": "p_6651tri.jpg" },
+{ "url": "r_00a.jpg" },
+{ "url": "t_brian may_rgbd_dc_adj2_4pct.jpg" },
+{ "url": "u_00a.jpg" }
+
+],
+"meta": {
+"url_base": "https://phila3d.github.io/nysa_20211113_sbs_html5/"
+}
+}
