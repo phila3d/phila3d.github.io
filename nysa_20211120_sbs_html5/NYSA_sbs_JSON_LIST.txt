@@ -1,6 +1,7 @@
 {
 "media": [
 
+{ "url": "070_00a.jpg" },
 { "url": "001_01-anaglyph_jukebox_title_slide.jpg" },
 { "url": "001_02-murder-morphine-me.jpg" },
 { "url": "001_03-murder-morphine-me.jpg" },
