@@ -42,7 +42,7 @@
 { "url": "204-003-3-d sea_creatures_final_300_dpi.jpg" },
 { "url": "205-spider_final_2_300_dpi.jpg" },
 { "url": "206-littlenemo.jpg" },
-{ "url": "207-acidhead_halfcolor_3d3.jpg" },
+{ "url": "207-acidhead_halfcolor_3d_2" },
 { "url": "208-major_arcana_finished.jpg" },
 { "url": "209-cady3-droadtowealth2.jpg" },
 { "url": "210-road to hellforcomputerscreennotforprint2.jpg" },
