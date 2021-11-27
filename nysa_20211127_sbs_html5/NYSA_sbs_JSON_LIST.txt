@@ -1,0 +1,59 @@
+{
+"media": [
+
+{ "url": "000a.jpg" },
+
+{ "url": "000b_heiser.jpg" },
+{ "url": "001_20211031_095802_sbs.jpg" },
+{ "url": "003_20211031_102418_sbs.jpg" },
+{ "url": "004_20211031_102551_b_sbs.jpg" },
+{ "url": "006_20211031_103421_sbs.jpg" },
+{ "url": "007_013_211031_b_sbs.jpg" },
+{ "url": "008_016_20211031_113108_b_sbs.jpg" },
+{ "url": "009_019_20211031_113817_b_sbs.jpg" },
+{ "url": "010_020_211031 sbs.jpg" },
+{ "url": "011_heiser_thanks.jpg" },
+
+{ "url": "019_paul.jpg" },
+{ "url": "100_image0.jpg" },
+{ "url": "101_image1.jpg" },
+{ "url": "102_image2.jpg" },
+{ "url": "103_image3.jpg" },
+{ "url": "104_image4.jpg" },
+{ "url": "105_paul_thanks.jpg" },
+
+{ "url": "151_01-anaglyph_jukebox_title_slide.jpg" },
+{ "url": "152-nysa-the-spirit-3-d.jpg" },
+{ "url": "153-nysa-the-spirit-3-d.jpg" },
+{ "url": "154-nysa-the-spirit-3-d.jpg" },
+{ "url": "155-nysa-the-spirit-3-d.jpg" },
+{ "url": "156-nysa-the-spirit-3-d.jpg" },
+{ "url": "157-nysa-the-spirit-3-d.jpg" },
+{ "url": "158-nysa-the-spirit-3-d.jpg" },
+{ "url": "159-nysa-the-spirit-3-d.jpg" },
+{ "url": "160-nysa-the-spirit-3-d.jpg" },
+{ "url": "161-nysa-the-spirit-3-d.jpg" },
+{ "url": "162_01-anaglyph_jukebox_title_slide.jpg" },
+
+{ "url": "200_denis.jpg" },
+{ "url": "201-3-dheads_final.jpg" },
+{ "url": "202-3-dstephen_final.jpg" },
+{ "url": "203-tattoo_final_preview.jpg" },
+{ "url": "204-003-3-d sea_creatures_final_300_dpi.jpg" },
+{ "url": "205-spider_final_2_300_dpi.jpg" },
+{ "url": "206-littlenemo.jpg" },
+{ "url": "207-acidhead_halfcolor_3d.jpg" },
+{ "url": "208-major_arcana_finished.jpg" },
+{ "url": "209-cady3-droadtowealth2.jpg" },
+{ "url": "210-road to hellforcomputerscreennotforprint.jpg" },
+{ "url": "211_denis_thanks.jpg" },
+
+{ "url": "270_00a.jpg" },
+{ "url": "270_t_brian may_rgbd_dc_adj2_4pct.jpg" },
+{ "url": "270_u.jpg" }
+
+],
+"meta": {
+"url_base": "https://phila3d.github.io/nysa_20211127_sbs_html5/"
+}
+}
