@@ -1,0 +1,59 @@
+{
+"media": [
+
+{ "url": "070_00a.jpg" },
+{ "url": "001_01-anaglyph_jukebox_title_slide.jpg" },
+{ "url": "001_02-murder-morphine-me.jpg" },
+{ "url": "001_03-murder-morphine-me.jpg" },
+{ "url": "001_04-murder-morphine-me.jpg" },
+{ "url": "001_05-bostons-bloody-gang.jpg" },
+{ "url": "001_06-death-proof.jpg" },
+{ "url": "001_07-death-dives-deep.jpg" },
+{ "url": "001_08.jpg" },
+{ "url": "001_09-ms-tree.jpg" },
+{ "url": "001_10-ms-tree-double-page-spread.jpg" },
+{ "url": "001_11-comics-code-stamp.jpg" },
+{ "url": "001_12-anaglyph_jukebox_title_slide.jpg" },
+{ "url": "00a.jpg" },
+
+{ "url": "020_title_dorothee.jpg" },
+{ "url": "030_fall_nov_2021_01.jpg" },
+{ "url": "030_fall_nov_2021_02.jpg" },
+{ "url": "030_fall_nov_2021_03.jpg" },
+{ "url": "030_fall_nov_2021_04.jpg" },
+{ "url": "030_fall_nov_2021_05.jpg" },
+{ "url": "031_title_dorothee_thanks.jpg" },
+
+{ "url": "040_00_title_vr_world.jpg" },
+{ "url": "040_01_nysa_altspace_world.jpg" },
+{ "url": "040_02_nysa_altspace_world.jpg" },
+{ "url": "040_03_nysa_altspace_world.jpg" },
+{ "url": "040_04_nysa_altspace_world.jpg" },
+{ "url": "040_05_nysa_altspace_world.jpg" },
+{ "url": "040_06_nysa_altspace_world.jpg" },
+{ "url": "040_07_nysa_altspace_world.jpg" },
+{ "url": "040_08_nysa_altspace_world.jpg" },
+{ "url": "040_09_nysa_altspace_world.jpg" },
+{ "url": "040_10_nysa_altspace_world.jpg" },
+
+{ "url": "050_00_title_vr_events.jpg" },
+{ "url": "050_01_nysa20210417.jpg" },
+{ "url": "050_02_nysa20210417.jpg" },
+{ "url": "050_03_nysa20210417.jpg" },
+{ "url": "050_04_nysa20210417.jpg" },
+
+{ "url": "060_00_title_vr_art_opening.jpg" },
+{ "url": "060_01_ggs_open2d.jpg" },
+{ "url": "060_02_ggs_open2d.jpg" },
+{ "url": "060_03_ggs_open2d.jpg" },
+{ "url": "060_04_title_vr_off_to_vr.jpg" },
+{ "url": "070_00a.jpg" },
+
+{ "url": "070_t_brian may_rgbd_dc_adj2_4pct.jpg" },
+{ "url": "070_u.jpg" }
+
+],
+"meta": {
+"url_base": "https://phila3d.github.io/nysa_20211120_sbs_html5/"
+}
+}

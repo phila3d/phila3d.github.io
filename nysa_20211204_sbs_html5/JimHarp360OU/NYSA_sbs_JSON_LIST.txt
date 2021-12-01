@@ -1,0 +1,15 @@
+{
+"media": [
+
+{ "url": "ARG_I_IguazuBrazil_360_TB.jpg", "projection": "vr360" },
+{ "url": "ARG_I_IguazuBrazilPlatfor_360_TB.jpg", "projection": "vr360" },
+{ "url": "PIC_4734_360_TB.jpg", "projection": "vr360" },
+{ "url": "PIC_93735_360_TB.jpg", "projection": "vr360" },
+{ "url": "PIC_94024_360_TB.jpg", "projection": "vr360" },
+{ "url": "PIC_94623_360_TB.jpg", "projection": "vr360" }
+
+],
+"meta": {
+"url_base": "https://phila3d.github.io/nysa_20211204_sbs_html5/"
+}
+}
