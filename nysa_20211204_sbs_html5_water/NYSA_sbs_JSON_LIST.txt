@@ -1,0 +1,19 @@
+{
+"media": [
+
+
+{ "url": "000a.jpg" },
+{ "url": "a_greg.jpg" },
+{ "url": "dscf2928.jpg" },
+{ "url": "dscf2934.jpg" },
+{ "url": "dscf2939.jpg" },
+{ "url": "dscf2942.jpg" },
+{ "url": "dscf2944.jpg" },
+{ "url": "x_greg_thanks.jpg" },
+{ "url": "000a.jpg" }
+
+],
+"meta": {
+"url_base": "https://phila3d.github.io/nysa_20211211_sbs_html5_water/"
+}
+}
