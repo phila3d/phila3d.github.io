@@ -1,0 +1,33 @@
+{
+"media": [
+
+{ "url": "000a.jpg" },
+{ "url": "output_0002.jpg", "projection":"vr180"  },
+{ "url": "output_0073.jpg", "projection":"vr180"  },
+{ "url": "output_0085.jpg", "projection":"vr180"  },
+{ "url": "output_0101.jpg", "projection":"vr180"  },
+{ "url": "output_0114.jpg", "projection":"vr180"  },
+{ "url": "output_0158.jpg", "projection":"vr180"  },
+{ "url": "output_0188.jpg", "projection":"vr180"  },
+{ "url": "output_0219.jpg", "projection":"vr180"  },
+{ "url": "output_0253.jpg", "projection":"vr180"  },
+{ "url": "output_0279.jpg", "projection":"vr180"  },
+{ "url": "output_0301.jpg", "projection":"vr180"  },
+{ "url": "output_0314.jpg", "projection":"vr180"  },
+{ "url": "output_0333.jpg", "projection":"vr180"  },
+{ "url": "output_0350.jpg", "projection":"vr180"  },
+{ "url": "output_0367.jpg", "projection":"vr180"  },
+{ "url": "output_0394.jpg", "projection":"vr180"  },
+
+{ "url": "output_0404.jpg", "projection":"vr180"  },
+{ "url": "output_0424.jpg", "projection":"vr180"  },
+{ "url": "output_0436.jpg", "projection":"vr180"  },
+{ "url": "output_0477.jpg", "projection":"vr180"  },
+
+{ "url": "000a.jpg" }
+
+],
+"meta": {
+"url_base": "https://phila3d.github.io/nysa_20211204_sbs_html5_ttvr180"
+}
+}
