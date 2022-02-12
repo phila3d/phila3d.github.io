@@ -1,6 +1,15 @@
 {
 "media": [
+
 { "url": "000a.jpg" },
+
+{ "url": "001_jeremy.jpg" },
+{ "url": "image3_adjb.jpg" },
+{ "url": "image5_adjb.jpg" },
+{ "url": "image6_adjb.jpg" },
+{ "url": "image7_adjb2.jpg" },
+{ "url": "image8_adjb.jpg" },
+{ "url": "image9_adjb.jpg" },
 { "url": "image10_adj.jpg" },
 { "url": "image11_adj.jpg" },
 { "url": "image13_adjb.jpg" },
@@ -12,15 +21,12 @@
 { "url": "image19_adjb.jpg" },
 { "url": "image20_adj.jpg" },
 { "url": "image21.jpg" },
-{ "url": "image3_adjb.jpg" },
-{ "url": "image5_adjb.jpg" },
-{ "url": "image6_adjb.jpg" },
-{ "url": "image7_adjb2.jpg" },
-{ "url": "image8_adjb.jpg" },
-{ "url": "image9_adjb.jpg" }.
+{ "url": "image22_jeremy_thanks.jpg" },
+
 { "url": "000a.jpg" }
 
 ],
 "meta": {
 "url_base": "https://phila3d.github.io/nysa_20220212_sbs_html5/"
+}
 }
