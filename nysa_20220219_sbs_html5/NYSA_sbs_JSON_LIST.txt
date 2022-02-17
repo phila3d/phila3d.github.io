@@ -1,0 +1,47 @@
+{
+"media": [
+
+
+{ "url": "000a.jpg" },
+
+{ "url": "009_paul.jpg" },
+{ "url": "010_mithras1.jpg" },
+{ "url": "011_mithras2.jpg" },
+{ "url": "012_mithras3.jpg" },
+{ "url": "013_mithras4.jpg" },
+{ "url": "014_mithras5.jpg" },
+{ "url": "015_mithras6.jpg" },
+{ "url": "016_mithras7.jpg" },
+{ "url": "017_mithras8.jpg" },
+{ "url": "018_mithras9.jpg" },
+{ "url": "019_mithras10.jpg" },
+{ "url": "020_mithras11.jpg" },
+{ "url": "021_mithras12.jpg" },
+{ "url": "022_paul_thanks.jpg" },
+
+{ "url": "029_jeff.jpg" },
+{ "url": "030_nysa1_sbs.jpg" },
+{ "url": "031_nysa2_sbs.jpg" },
+{ "url": "032_nysa3_sbs.jpg" },
+{ "url": "033_nysa4_sbs.jpg" },
+{ "url": "034_nysa5_sbs.jpg" },
+{ "url": "035_nysa6_sbs_dc.jpg" },
+{ "url": "036_nysa7_sbs.jpg" },
+{ "url": "037_nysa8_sbs.jpg" },
+{ "url": "038_nysa9_sbs.jpg" },
+{ "url": "039_nysa10_sbs.jpg" },
+{ "url": "040_nysa10cover_sbs.jpg" },
+{ "url": "041_nysa11_sbs.jpg" },
+{ "url": "042_nysa12_sbs.jpg" },
+{ "url": "043_nysa13_sbs.jpg" },
+{ "url": "044_nysa14_sbs.jpg" },
+{ "url": "045_nysaxx_v5_pair.jpg" },
+{ "url": "046_jeff_thanks.jpg" },
+
+{ "url": "047_000a.jpg" }
+
+],
+"meta": {
+"url_base": "https://phila3d.github.io/nysa_20220219_sbs_html5/"
+}
+}
