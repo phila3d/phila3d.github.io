@@ -1,0 +1,58 @@
+{
+"media": [
+
+{ "url": "000a.jpg" },
+{ "url": "001-krazy-kat-3-d.jpg" },
+{ "url": "002-krazy-kat-3-d.jpg" },
+{ "url": "003-krazy-kat-3-d.jpg" },
+{ "url": "004-krazy-kat-3-d.jpg" },
+{ "url": "005-krazy-kat-3-d.jpg" },
+{ "url": "006-krazy-kat-3-d.jpg" },
+{ "url": "007-krazy-kat-3-d.jpg" },
+{ "url": "008-krazy-kat-3-d.jpg" },
+{ "url": "009-krazy-kat-3-d.jpg" },
+{ "url": "010-krazy-kat-3-d.jpg" },
+{ "url": "011-krazy-kat-3-d.jpg" },
+{ "url": "012-krazy-kat-3-d.jpg" },
+{ "url": "013-krazy-kat-3-d.jpg" },
+{ "url": "014-krazy-kat-3-d_dc.jpg" },
+{ "url": "015-krazy-kat-3-d.jpg" },
+{ "url": "019_paul.jpg" },
+{ "url": "019a_matera1.jpg" },
+{ "url": "020_matera2.jpg" },
+{ "url": "021_matera3.jpg" },
+{ "url": "022_matera4.jpg" },
+{ "url": "023_matera5.jpg" },
+{ "url": "024_matera6.jpg" },
+{ "url": "025_matera7.jpg" },
+{ "url": "025a_matera13.jpg" },
+{ "url": "026_matera8.jpg" },
+{ "url": "027_matera9.jpg" },
+{ "url": "028_matera10.jpg" },
+{ "url": "029_matera11.jpg" },
+{ "url": "030_matera12.jpg" },
+{ "url": "031_matera14.jpg" },
+{ "url": "032_thanks_paul.jpg" },
+{ "url": "049_jeremy.jpg" },
+{ "url": "050_frenchtrainwreck_sbs.jpg" },
+{ "url": "051_glacierpointyosemitephotoraphersbs.jpg" },
+{ "url": "052_jrowecrawfordandpaxtonoctopussbs.jpg" },
+{ "url": "053_jrowedivinggroup_sbs.jpg" },
+{ "url": "054_jroweeastlanddisaster_sbs.jpg" },
+{ "url": "055_jroweghostscene_sbs.jpg" },
+{ "url": "056_jrowehursrtmonkeypoliticalsatiresbs.jpg" },
+{ "url": "057_jrowekeystonex-raysbs.jpg" },
+{ "url": "058_jrowethompsonsunfishsbs.jpg" },
+{ "url": "059_jrowetrussedhogstereoweberbroseriepa_sbs.jpg" },
+{ "url": "060_jrowekeystoneoceanspray_sbs.jpg" },
+{ "url": "061_jrowethebowderstone_sbs.jpg" },
+{ "url": "062_mercuryballreflection_sbs.jpg" },
+{ "url": "063_jeremy_thanks.jpg" },
+
+{ "url": "080.jpg" }
+
+],
+"meta": {
+"url_base": "https://phila3d.github.io/nysa_20220306_sbs_html5/"
+}
+}
