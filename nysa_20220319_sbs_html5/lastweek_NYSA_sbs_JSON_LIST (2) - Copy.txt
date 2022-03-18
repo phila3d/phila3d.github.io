@@ -1,0 +1,27 @@
+{
+"media": [
+
+{ "url": "000a.jpg" },
+
+{ "url": "what-the-butler-saw-01.jpg" },
+{ "url": "what-the-butler-saw-02.jpg" },
+{ "url": "what-the-butler-saw-03.jpg" },
+{ "url": "what-the-butler-saw-04.jpg" },
+{ "url": "what-the-butler-saw-05.jpg" },
+{ "url": "what-the-butler-saw-06.jpg" },
+{ "url": "what-the-butler-saw-07.jpg" },
+{ "url": "what-the-butler-saw-08.jpg" },
+{ "url": "what-the-butler-saw-09.jpg" },
+{ "url": "what-the-butler-saw-10.jpg" },
+{ "url": "what-the-butler-saw-11.jpg" },
+
+{ "url": "000a.jpg" },
+{ "url": "girl.jpg" },
+{ "url": "malls.jpg" },
+{ "url": "toys.jpg" }
+
+],
+"meta": {
+"url_base": "https://phila3d.github.io/nysa_20220226_sbs_html5/"
+}
+}
