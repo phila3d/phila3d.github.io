@@ -1,0 +1,36 @@
+{
+"media": [
+
+
+{ "url": "000a.jpg" },
+{ "url": "laser.jpg" },
+{ "url": "000a.jpg" },
+
+{ "url": "000b_harold.jpg" },
+
+{ "url": "01_bm9609_hantig.jpg" },
+{ "url": "02_bm9608sharkmobile.jpg" },
+{ "url": "03_bm97_04flycolor.jpg" },
+{ "url": "05_bm0003.jpg" },
+{ "url": "06_bm04_13.jpg" },
+{ "url": "07_bm0203.jpg" },
+{ "url": "08_bm0605bra.jpg" },
+{ "url": "09_bm0619uchr.jpg" },
+{ "url": "10_bm0835.jpg" },
+{ "url": "11_bm0924.jpg" },
+{ "url": "12_bm2014_49.jpg" },
+{ "url": "13_bm201311bigwheel.jpg" },
+{ "url": "14_bm2014_58.jpg" },
+{ "url": "15_bm201322coyotehead.jpg" },
+{ "url": "16_bm201329stiltwomen.jpg" },
+{ "url": "17_bm2015_18.jpg" },
+{ "url": "18_bm2015_70.jpg" },
+{ "url": "19_bm2018_047.jpg" },
+
+{ "url": "020_harold_thanks.jpg" },
+{ "url": "000a.jpg" }
+],
+"meta": {
+"url_base": "https://phila3d.github.io/nysa_20220312_sbs_html5/"
+}
+}

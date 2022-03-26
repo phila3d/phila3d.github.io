@@ -1,0 +1,43 @@
+{
+"media": [
+
+{ "url": "000a.jpg" },
+
+{ "url": "01-atomic-sub-3-d.jpg" },
+{ "url": "02-atomic-sub-3-d.jpg" },
+{ "url": "03-atomic-sub-3-d.jpg" },
+{ "url": "04-atomic-sub-3-d.jpg" },
+{ "url": "05-atomic-sub-3-d.jpg" },
+{ "url": "06-atomic-sub-3-d.jpg" },
+{ "url": "07-atomic-sub-3-d.jpg" },
+{ "url": "08-atomic-sub-3-d.jpg" },
+{ "url": "09-atomic-sub-3-d.jpg" },
+{ "url": "10-atomic-sub-3-d.jpg" },
+{ "url": "11-atomic-sub-3-d.jpg" },
+{ "url": "12-atomic-sub-3-d.jpg" },
+{ "url": "13-atomic-sub-3-d.jpg" },
+{ "url": "14-atomic-sub-3-d2.jpg" },
+{ "url": "15-atomic-sub-3-d_4.jpg" },
+{ "url": "16-atomic-sub-3-d.jpg" },
+
+{ "url": "19_harold.jpg" },
+{ "url": "20_bm2018_077.jpg" },
+{ "url": "21_bm2019_012.jpg" },
+{ "url": "22_bm2019_040.jpg" },
+{ "url": "23_planb17.jpg" },
+{ "url": "24_bm0004.jpg" },
+{ "url": "25_bm0803.jpg" },
+{ "url": "26_bm201320.jpg" },
+{ "url": "27_bm2016_49.jpg" },
+{ "url": "28_bm2018_045.jpg" },
+{ "url": "29_bmorg_4.jpg" },
+{ "url": "30_bm2017_069pudle1.jpg" },
+{ "url": "31_burn2018_silverman_sean_obscenity.jpg" },
+{ "url": "32_bm2019_116_fireball.jpg" },
+{ "url": "33_000a.jpg" }
+
+],
+"meta": {
+"url_base": "https://phila3d.github.io/nysa_20220326_sbs_html5/"
+}
+}
