@@ -1,0 +1,31 @@
+{
+"media": [
+
+
+{ "url": "000a.jpg" },
+{ "url": "010_WET.JPG" },
+{ "url": "020_GREECE-03.JPG" },
+{ "url": "030_GREECE-15.JPG" },
+{ "url": "040_NSA-10.JPG" },
+{ "url": "050_NSA-14.JPG" },
+{ "url": "060_NSA-11.JPG" },
+{ "url": "070_NSA-13C.JPG" },
+{ "url": "080_NSA-13.JPG" },
+{ "url": "090_NSA-13B.JPG" },
+{ "url": "100_NSA-01.JPG" },
+{ "url": "110_NSA-16.JPG" },
+{ "url": "120_NSA-17.JPG" },
+{ "url": "130_NSA-02.JPG" },
+{ "url": "140_NSA-05.JPG" },
+{ "url": "150_NSA-06A.JPG" },
+{ "url": "160_NSA-06B.JPG" },
+{ "url": "170_NSA-07.JPG" },
+{ "url": "180_NSA-09.JPG" },
+{ "url": "190_NSA-18B.JPG" },
+{ "url": "000a.jpg" }
+
+],
+"meta": {
+"url_base": "https://daveheiser.com/NYSA/220917/"
+}
+}
