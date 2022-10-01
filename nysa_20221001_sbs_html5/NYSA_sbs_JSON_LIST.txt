@@ -50,6 +50,6 @@
 
 ],
 "meta": {
-"url_base": "https://phila3d.github.io/nysa_20220326_sbs_html5/NYSA_sbs_JSON_LIST.txt"
+"url_base": "https://phila3d.github.io/nysa_20221001_sbs_html5/NYSA_sbs_JSON_LIST.txt"
 }
 }
