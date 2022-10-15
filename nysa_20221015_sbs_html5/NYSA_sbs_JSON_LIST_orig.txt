@@ -21,12 +21,7 @@
 { "url": "TK104_Landshark12.JPG" },
 { "url": "TK105_Landsharkboy1.JPG" },
 { "url": "TK109_thanks.JPG" },
-{ "url": "TK110_performance_submit.jpg" },
-
-{ "url": "CAMIMG-5523.jpg" },
-{ "url": "CAMIMG-5525.jpg" },
-{ "url": "CAMIMG-5526.jpg" },
-{ "url": "CAMIMG-5528.jpg" }
+{ "url": "TK110_performance_submit.jpg" }
 
 ],
 "meta": {
