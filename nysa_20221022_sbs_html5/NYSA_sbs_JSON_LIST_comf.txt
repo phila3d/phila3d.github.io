@@ -1,0 +1,63 @@
+{
+"media": [
+
+{ "url": "000a.jpg" },
+{ "url": "CJ099_paul.JPG" },
+{ "url": "CJ100.JPG" },
+{ "url": "CJ102.JPG" },
+{ "url": "CJ103.JPG" },
+{ "url": "CJ104.JPG" },
+{ "url": "CJ105.JPG" },
+{ "url": "CJ106.JPG" },
+{ "url": "CJ107.JPG" },
+{ "url": "CJ108.JPG" },
+{ "url": "CJ109.JPG" },
+{ "url": "CJ110.JPG" },
+{ "url": "CJ111.JPG" },
+{ "url": "CJ112.JPG" },
+{ "url": "CJ113.JPG" },
+{ "url": "CJ114.JPG" },
+{ "url": "CJ114b.JPG" },
+{ "url": "CJ115.JPG" },
+{ "url": "CJ116.JPG" },
+{ "url": "CJ117.JPG" },
+{ "url": "CJ118.JPG" },
+{ "url": "CJ118b.JPG" },
+{ "url": "CJ118c.JPG" },
+{ "url": "CJ119.JPG" },
+{ "url": "CJ120.JPG" },
+{ "url": "CJ121.JPG" },
+{ "url": "CJ122_paul_thanks.jpg" },
+
+{ "url": "H_000_ukraine.jpg" },
+
+{ "url": "H_2009-07-08_05_Synagogue_dcadj.JPG" },
+{ "url": "H_2009-07-08_06_MemorialJews_dcadj.JPG" },
+{ "url": "H_2009-07-08_07_Ravine_bodies_dcadj.JPG" },
+{ "url": "H_2009-07-08_09_MonestaryCaves_dcadj.JPG" },
+{ "url": "H_2009-07-08_10Monestary_dcadj.JPG" },
+{ "url": "HU_009_000a.jpg" },
+
+{ "url": "JK_001_performance.jpg" },
+{ "url": "JK_002_jay.JPG" },
+{ "url": "JK_MermaidBenefit_22.jpg" },
+{ "url": "JK_MermaidBenefit_24.jpg" },
+{ "url": "JK_MermaidBenefit_26.jpg" },
+{ "url": "JK_MermaidBenefit_27.jpg" },
+{ "url": "JK_MermaidBenefit_36.jpg" },
+{ "url": "JK_MermaidBenefit_80_thanksjay.JPG" },
+{ "url": "JK_MermaidBenefit_81_performance_submit.jpg" },
+{ "url": "ZZZ_000a.jpg" },
+
+{ "url": "ZZZCAMIMG-5523.jpg" },
+{ "url": "ZZZCAMIMG-5525.jpg" },
+{ "url": "ZZZCAMIMG-5526.jpg" },
+{ "url": "ZZZCAMIMG-5528.jpg" },
+{ "url": "ZZZCAMIMG-9999.jpg" }
+
+
+],
+"meta": {
+"url_base": "https://phila3d.github.io/nysa_20221022_sbs_html5/NYSA_sbs_JSON_LIST_comf.txt"
+}
+}
