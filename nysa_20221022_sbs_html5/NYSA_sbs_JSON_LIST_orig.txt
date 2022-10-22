@@ -39,11 +39,11 @@
 
 { "url": "JK_001_performance.jpg" },
 { "url": "JK_002_jay.JPG" },
-{ "url": "JK_MermaidBenefit_22.jpg" },
+{ "url": "JK_MermaidBenefit_22_dcadj.jpg" },
 { "url": "JK_MermaidBenefit_24.jpg" },
 { "url": "JK_MermaidBenefit_26.jpg" },
 { "url": "JK_MermaidBenefit_27.jpg" },
-{ "url": "JK_MermaidBenefit_36.jpg" },
+{ "url": "JK_MermaidBenefit_36_22_dcadj.jpg" },
 { "url": "JK_MermaidBenefit_80_thanksjay.JPG" },
 { "url": "JK_MermaidBenefit_81_performance_submit.jpg" },
 { "url": "ZZZ_000a.jpg" },
