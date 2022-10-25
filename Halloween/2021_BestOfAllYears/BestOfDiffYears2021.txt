@@ -25,6 +25,6 @@
 
 ],
 "meta": {
-"url_base": "https://phila3d.github.io/Halloween/BestOfDiffYears2021/BestOfDiffYears2021_JSON.txt"
+"url_base": "https://phila3d.github.io/Halloween/2021_BestOfAllYears/BestOfDiffYears2021_JSON.txt"
 }
 }
