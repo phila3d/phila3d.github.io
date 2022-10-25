@@ -1,0 +1,16 @@
+{
+"media": [
+
+{ "url": "DSCF2871.jpg" },
+{ "url": "DSCF2874.jpg" },
+{ "url": "DSCF2875_adj.JPG" },
+{ "url": "DSCF5585.jpg" },
+{ "url": "PIC_1107.jpg" },
+{ "url": "PIC_1127.jpg" },
+{ "url": "PIC_1133_adj.JPG" }
+
+],
+"meta": {
+"url_base": "https://phila3d.github.io/Halloween/NYSA2020/NYSA2020_JSON.txt"
+}
+}
