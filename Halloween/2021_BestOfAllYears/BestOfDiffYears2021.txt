@@ -2,29 +2,29 @@
 "media": [
 
 { "url": "2_DSCF3179.jpg" },
-{ "url": "2_DSCF4614.JPG" },
+{ "url": "2_DSCF4614.jpg" },
 { "url": "DSCF2876.jpg" },
-{ "url": "DSCF2883_adj_color.JPG" },
+{ "url": "DSCF2883_adj_color.jpg" },
 { "url": "DSCF3169.jpg" },
 { "url": "DSCF3175.jpg" },
 { "url": "DSCF3176.jpg" },
-{ "url": "DSCF3181_adj.JPG" },
-{ "url": "DSCF3185_adj.JPG" },
-{ "url": "DSCF3193_adj.JPG" },
-{ "url": "DSCF3215_adj.JPG" },
-{ "url": "DSCF4623_adj.JPG" },
-{ "url": "DSCF4626_adj_crop.JPG" },
-{ "url": "DSCF4631_adj.JPG" },
+{ "url": "DSCF3181_adj.jpg" },
+{ "url": "DSCF3185_adj.jpg" },
+{ "url": "DSCF3193_adj.jpg" },
+{ "url": "DSCF3215_adj.jpg" },
+{ "url": "DSCF4623_adj.jpg" },
+{ "url": "DSCF4626_adj_crop.jpg" },
+{ "url": "DSCF4631_adj.jpg" },
 { "url": "DSCF5577.jpg" },
 { "url": "DSCF5585.jpg" },
 { "url": "DSCF5588.jpg" },
 { "url": "DSCF6178.jpg" },
-{ "url": "DSCF6180_crop.JPG" },
+{ "url": "DSCF6180_crop.jpg" },
 { "url": "DSCF6185.jpg" },
 { "url": "DSCF6439.jpg" }
 
 ],
 "meta": {
-"url_base": "https://phila3d.github.io/Halloween/2021_BestOfAllYears/BestOfDiffYears2021.txt"
+"url_base": "https://phila3d.github.io/Halloween/BestOfDiffYears2021/BestOfDiffYears2021_JSON.txt"
 }
 }
