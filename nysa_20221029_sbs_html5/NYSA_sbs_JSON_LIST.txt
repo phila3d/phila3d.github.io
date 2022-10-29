@@ -29,8 +29,6 @@
 { "url": "0122_Wray109.JPG" },
 { "url": "0123_Wray110.JPG" },
 { "url": "0125_paul_thanks.jpg" },
-{ "url": "0150_IMG_5950.JPG" },
-{ "url": "0151_IMG_5951.JPG" },
 { "url": "000a.jpg" },
 
 { "url": "0199_ukraine.jpg" },
@@ -50,6 +48,9 @@
 { "url": "0304_11010006.JPG" },
 { "url": "0310_steve_thanks.jpg" },
 { "url": "0311_performance_end.jpg" },
+
+{ "url": "0150_IMG_5950.JPG" },
+{ "url": "0151_IMG_5951.JPG" },
 
 { "url": "0350_000a.jpg" },
 { "url": "0400_001_slide_FAKESBS.JPG" },
