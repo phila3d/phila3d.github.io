@@ -44,8 +44,6 @@
 { "url": "306_NFPS7.jpg" },
 { "url": "307_NFPS8.jpg" },
 { "url": "310_dan_thanks.JPG" },
-{ "url": "350_000a.jpg" },
-{ "url": "399_001_performance.jpg" },
 { "url": "399_bob.JPG" },
 { "url": "400_P1030125.jpg" },
 { "url": "401_P1030129.jpg" },
@@ -54,7 +52,6 @@
 { "url": "404_P1030151.jpg" },
 { "url": "405_P1030152.jpg" },
 { "url": "410_bob_thanks.JPG" },
-{ "url": "411_performance_end.jpg" },
 { "url": "450_000a.jpg" }
 
 ],
