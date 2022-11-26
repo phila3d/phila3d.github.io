@@ -32,15 +32,13 @@
 { "url": "127_WatkinsGlen_025.JPG" },
 
 { "url": "199_ukraine.jpg" },
-{ "url": "200_2009-07-1006_Ukraine.jpg" },
 { "url": "201_2009-07-1007_Ukraine.jpg" },
-{ "url": "202_2009-07-1008a_Ukraine.jpg" },
 { "url": "203_2009-07-1008b_Ukraine.jpg" },
-{ "url": "204_2009-07-1010a_Ukraine.jpg" },
 { "url": "205_2009-07-1010b_Ukraine.jpg" },
-{ "url": "206_2009-07-1012a_Ukraine.jpg" },
 { "url": "207_2009-07-1012b_Ukraine.jpg" },
 { "url": "208_000a.jpg" },
+
+{ "url": "BrianMay_HSBS_NOSOUND_Trim.mp4", "video": true, "preset": "hsbs" },
 
 { "url": "299_dorothee.JPG" },
 { "url": "300-Piscataway_Dances_001.JPG" },
