@@ -49,8 +49,6 @@
 { "url": "303-Piscataway_Dances_005.JPG" },
 { "url": "304_dorothee_thanks.JPG" },
 
-{ "url": "BrianMay_HSBS_NOSOUND_Trim.mp4", "video": true },
-
 { "url": "399_johnny.jpg" },
 { "url": "400-DSCF5573-SBS.JPG" },
 { "url": "401-DSCF5579-SBS.JPG" },
