@@ -1,0 +1,42 @@
+{
+"media": [
+
+{ "url": "000a.jpg" },
+
+{ "url": "T001a_ukraine.jpg" },
+{ "url": "T002-2009-07-10 01.jpg" },
+{ "url": "T003-2009-07-10 02.jpg" },
+{ "url": "T004-2009-07-10 03.jpg" },
+{ "url": "T005-2009-07-10 04.jpg" },
+{ "url": "T006-2009-07-10 05.jpg" },
+{ "url": "T008_000a.jpg" }
+
+{ "url": "Saltmines099a_paul.JPG" },
+{ "url": "Saltmines100a.JPG" },
+{ "url": "Saltmines100b.JPG" },
+{ "url": "Saltmines100c.JPG" },
+{ "url": "Saltmines102.jpg" },
+{ "url": "Saltmines102b.JPG" },
+{ "url": "Saltmines103.jpg" },
+{ "url": "Saltmines104.JPG" },
+{ "url": "Saltmines104b.JPG" },
+{ "url": "Saltmines105.JPG" },
+{ "url": "Saltmines106.jpg" },
+{ "url": "Saltmines107.JPG" },
+{ "url": "Saltmines108.jpg" },
+{ "url": "Saltmines108b.JPG" },
+{ "url": "Saltmines109.jpg" },
+{ "url": "Saltmines109b.JPG" },
+{ "url": "Saltmines110.jpg" },
+{ "url": "Saltmines111.JPG" },
+{ "url": "Saltmines112.JPG" },
+{ "url": "Saltmines113.JPG" },
+{ "url": "Saltmines114.jpg" },
+{ "url": "Saltmines115.JPG" },
+{ "url": "Saltmines116.jpg" },
+
+],
+"meta": {
+"url_base": "https://phila3d.github.io/nysa_20221119_sbs_html5/NYSA_sbs_JSON_LIST.txt"
+}
+}
