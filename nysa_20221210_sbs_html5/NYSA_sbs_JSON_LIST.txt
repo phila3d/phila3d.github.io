@@ -1,0 +1,48 @@
+{
+"media": [
+
+{ "url": "000a.jpg" },
+{ "url": "004_anaglyph_only.JPG" },
+{ "url": "006_movie_html5.JPG" },
+{ "url": "009_ukraine.jpg" },
+{ "url": "100_2009-07-1107UkraineKhersonFisherman_sislandprivatehomeEmily-LR.jpg" },
+{ "url": "101_2009-07-1108UkraineKhersonFisherman_sislandprivatehomeIconinredcorner-LR.jpg" },
+{ "url": "102_2009-07-1109UkraineKhersonFisherman_sislandprivatehome-LR.jpg" },
+{ "url": "103_2009-07-1110UkraineKhersonFisherman_sislandprivatehomeErnie_Vita-LR.jpg" },
+{ "url": "104_2009-07-1111UkraineKhersonFisherman_sislandprivatehomeourhost-LR.jpg" },
+{ "url": "105_2009-07-1112UkraineKhersonFisherman_sislandprivatehome-LR.jpg" },
+{ "url": "106_2009-07-1113UkraineKhersonFisherman_sislandprivatehomepartyshed-LR.jpg" },
+{ "url": "107_2009-07-1114UkraineKhersonbackfromfisherman_sisland-LR.jpg" },
+{ "url": "200_2009-07-1201Sevastapolourship_TarasShepshenko_-LR.jpg" },
+{ "url": "201_2009-07-1202SevastapolviewofBlackSea-LR.jpg" },
+{ "url": "202_2009-07-1203SevastapolStepstocity-LR.jpg" },
+{ "url": "203_2009-07-1204SevastapolHarborndBlackSea-LR.jpg" },
+{ "url": "204_2009-07-1206SevastapolSiegedioramaRussianssankfleetandescapedoverpontoonbridgetoNShoreredflagsignalsdanger-LR.jpg" },
+{ "url": "205_2009-07-1207SevastapolSiegediorama360degreeviewcreatedbyFranzRoubaud1904restored1942breastworksaflame-LR.jpg" },
+{ "url": "206_2009-07-1208SevastapolSiegedioramaoffecer_sdugoutFrenchtroopsonslopesofravine-LR.jpg" },
+{ "url": "207_2009-07-1209SevastapolSiegedioramaEXIT-LR.jpg" },
+{ "url": "208_2009-07-1209BSevastapolSiegeofSevastapolmuseumgroundsEmily-LR.jpg" },
+{ "url": "209_2009-07-1210Sevastapol-LR.jpg" },
+{ "url": "210_2009-07-1211SevastapolMel_Emily-LR.jpg" },
+{ "url": "211_2009-07-1212UkraineSevastapolBalaklavaChurchofthe12Apostles1657Russianoriginal1375-LR.jpg" },
+{ "url": "215_000a.jpg" },
+{ "url": "Bathurst_00_Bob_Aldridge.jpg" },
+{ "url": "Bathurst_03_04a.jpg" },
+{ "url": "Bathurst_03_10a.jpg" },
+{ "url": "Bathurst_04_02a.jpg" },
+{ "url": "Bathurst_04_15a.jpg" },
+{ "url": "Bathurst012.jpg" },
+{ "url": "Bathurst029.jpg" },
+{ "url": "Bathurst032.jpg" },
+{ "url": "Bathurst033.jpg" },
+{ "url": "Bathurst034.jpg" },
+{ "url": "Bathurst050.jpg" },
+{ "url": "Bathurst051.jpg" },
+{ "url": "Bathurst052.jpg" },
+{ "url": "Bathurst099_Bob_Aldridge_thanks.jpg" }
+
+],
+"meta": {
+"url_base": "https://phila3d.github.io/nysa_20221210_sbs_html5/NYSA_sbs_JSON_LIST.txt"
+}
+}
