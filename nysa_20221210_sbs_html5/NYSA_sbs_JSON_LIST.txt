@@ -39,7 +39,8 @@
 { "url": "Bathurst050.jpg" },
 { "url": "Bathurst051.jpg" },
 { "url": "Bathurst052.jpg" },
-{ "url": "Bathurst099_Bob_Aldridge_thanks.jpg" }
+{ "url": "Bathurst099_Bob_Aldridge_thanks.jpg" },
+{ "url": "000a.jpg" }
 
 ],
 "meta": {
