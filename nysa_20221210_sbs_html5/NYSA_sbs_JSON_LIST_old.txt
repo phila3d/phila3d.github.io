@@ -33,8 +33,7 @@
 { "url": "Saltmines113.JPG" },
 { "url": "Saltmines114.jpg" },
 { "url": "Saltmines115.JPG" },
-{ "url": "Saltmines116.jpg" },
-{ "url": "Saltmines116.jpg" },
+{ "url": "Saltmines116.jpg" }
 
 ],
 "meta": {
