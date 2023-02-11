@@ -1,0 +1,19 @@
+{
+"media": [
+
+{ "url": "000a.jpg" },
+{ "url": "00_jim_harp.jpg" },
+{ "url": "01 DaisyHeart_SBS.jpg" },
+{ "url": "02_Perse_BW_SBS.jpg" },
+{ "url": "03_Aubrey_Candy_Pair_adj.JPG" },
+{ "url": "04_Aubrey_SBS.jpg" },
+{ "url": "05_Perse_Fisheye.jpg" },
+{ "url": "06_DaisyPull_VR180_SBS.jpg" },
+{ "url": "07_jim_harp_thanks.jpg" }
+
+
+],
+"meta": {
+"url_base": "https://phila3d.github.io/nysa_20230211_sbs_html5/NYSA_sbs_JSON_LIST.txt"
+}
+}
