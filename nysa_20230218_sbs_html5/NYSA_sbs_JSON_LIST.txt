@@ -1,0 +1,36 @@
+{
+"media": [
+
+{ "url": "000a.jpg" },
+{ "url": "stone099.JPG" },
+{ "url": "Stone100.JPG" },
+{ "url": "Stone101.JPG" },
+{ "url": "Stone105.JPG" },
+{ "url": "Stone106.JPG" },
+{ "url": "Stone106b.JPG" },
+{ "url": "Stone106c.JPG" },
+{ "url": "Stone106d.JPG" },
+{ "url": "Stone106e.JPG" },
+{ "url": "Stone107.JPG" },
+{ "url": "Stone108.JPG" },
+{ "url": "Stone109.JPG" },
+{ "url": "Stone110.JPG" },
+{ "url": "Stone110a.JPG" },
+{ "url": "Stone110b.JPG" },
+{ "url": "Stone110c.JPG" },
+{ "url": "Stone120.JPG" },
+{ "url": "Stone121.JPG" },
+{ "url": "Stone122.JPG" },
+{ "url": "Stone123.JPG" },
+{ "url": "Stone124.JPG" },
+{ "url": "Stone125.JPG" },
+{ "url": "Stone125b.JPG" },
+{ "url": "Stone125d.JPG" },
+{ "url": "Stone126.JPG" },
+{ "url": "stone200paul_thanks.jpg" },
+{ "url": "000a.jpg" }
+],
+"meta": {
+"url_base": "https://phila3d.github.io/nysa_20230218_sbs_html5/NYSA_sbs_JSON_LIST.txt"
+}
+}
