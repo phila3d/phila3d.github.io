@@ -1,0 +1,24 @@
+{
+"media": [
+
+{ "url": "000a.jpg" },
+{ "url": "bm000_harold.jpg" },
+{ "url": "bm2201.jpg" },
+{ "url": "bm2202.jpg" },
+{ "url": "bm2203.jpg" },
+{ "url": "bm2204.jpg" },
+{ "url": "bm2205.jpg" },
+{ "url": "bm2206.jpg" },
+{ "url": "bm2207.jpg" },
+{ "url": "bm2208.jpg" },
+{ "url": "bm2400_harold_thanks.jpg" },
+{ "url": "nt_000-nino.jpg" },
+{ "url": "nt_001_4_Nino Trentinella_Feline Totem_DxA.jpg" },
+{ "url": "nt_001_NINOgraphy_blue_kitten.jpg" },
+{ "url": "nt_004-nino_thanks.jpg" }
+
+],
+"meta": {
+"url_base": "https://phila3d.github.io/nysa_20230304_sbs_html5/NYSA_sbs_JSON_LIST.txt"
+}
+}
