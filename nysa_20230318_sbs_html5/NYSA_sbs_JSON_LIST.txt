@@ -3,8 +3,6 @@
 
 { "url": "000a.jpg" },
 
-{ "url": "brian-may-eprimefeed_002_para.jpg" },
-{ "url": "brian-may-scottsun_003_para.jpg" },
 { "url": "brian-may-skynews_001_para.jpg" },
 { "url": "000a.jpg" },
 
