@@ -42,7 +42,7 @@
 { "url": "bm2221a.jpg" },
 { "url": "bm2222.jpg" },
 { "url": "bm2223_after.jpg" },
-{ "url": "bm2400_harold_thanks.jpg" },
+{ "url": "bm2400_harold_thanks.jpg" }
 
 ,
 "meta": {
