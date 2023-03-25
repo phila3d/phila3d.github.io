@@ -1,0 +1,35 @@
+{
+"media": [
+
+{ "url": "000a.jpg" },
+{ "url": "img_7001_paul.jpg" },
+{ "url": "IMG_8049.JPG" },
+{ "url": "IMG_8050.JPG" },
+{ "url": "IMG_8051.JPG" },
+{ "url": "IMG_8052.JPG" },
+{ "url": "IMG_8053.JPG" },
+{ "url": "IMG_8054.JPG" },
+{ "url": "IMG_8055.JPG" },
+{ "url": "IMG_8056.JPG" },
+{ "url": "IMG_8057.JPG" },
+{ "url": "IMG_8058.JPG" },
+{ "url": "IMG_8059.JPG" },
+{ "url": "IMG_8060.JPG" },
+{ "url": "IMG_8061.JPG" },
+{ "url": "IMG_8062.JPG" },
+{ "url": "IMG_8063.JPG" },
+{ "url": "IMG_8066.JPG" },
+{ "url": "IMG_8067.JPG" },
+{ "url": "IMG_8068.JPG" },
+{ "url": "IMG_8069.JPG" },
+{ "url": "IMG_8070.JPG" },
+{ "url": "IMG_8071.JPG" },
+{ "url": "IMG_8072.JPG" },
+{ "url": "IMG_8073.JPG" },
+{ "url": "img_9000_paul_thanks.jpg" }
+
+],
+"meta": {
+"url_base": "https://phila3d.github.io/nysa_20230325_sbs_html5/"
+}
+}
