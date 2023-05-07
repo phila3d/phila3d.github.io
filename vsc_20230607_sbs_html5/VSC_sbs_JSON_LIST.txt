@@ -1,6 +1,7 @@
 {
 "media": [
 
+{ "url": "vsc_dc_sbs2_logoback_sbs.JPG" },
 { "url": "absonrod1.jpg" },
 { "url": "absonrod2.jpg" },
 { "url": "angsmannanne1.jpg" },
@@ -52,7 +53,8 @@
 { "url": "themelisgeorge1.jpg" },
 { "url": "themelisgeorge2.jpg" },
 { "url": "wynndave1.jpg" },
-{ "url": "wynndave2.jpg" }
+{ "url": "wynndave2.jpg" },
+{ "url": "vsc_dc_sbs2_logoback_sbs.JPG" }
 
 ],
 "meta": {
